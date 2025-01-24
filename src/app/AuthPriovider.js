@@ -5,6 +5,7 @@ export const AuthProvider = ({children}) => {
     return <KindeProvider>
         {children}
     </KindeProvider>;
+    // authentication done
 };
 
 
